@@ -1,0 +1,48 @@
+# Nulbarich – Sweet and Sour
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:10.91] I just posted my life いつも通り
+[00:15.81] What did you see そっちはどう?
+[00:20.66] ねぇ tell me たそがれて talking to the star
+[00:25.19] 君が教えてくれたのは 明日も晴れ
+[00:30.46] I wish upon a star
+[00:32.46] 世界は相変わらず 急ぎ足で run
+[00:38.35] 追いつけないまだ
+[00:40.63] Pain と笑みで racing 答えはその先に
+[00:45.88] It's like tasting a sweet and sour candy
+[00:51.01] 言わないで which is gonna win
+[01:02.99] 瞬きで change the way you view
+[01:07.22] Don't hesitate 大丈夫でしょ
+[01:12.62] Maybe 後先は let me freely choose
+[01:17.15] 自分のペースで lose yourself
+[01:19.68] 飛べないけど spread your arms
+[01:22.62] Did you know? 何してても何をやっても独り言の world
+[01:28.40] But I won't stop it, someday 届くでしょう
+[01:32.99] I can't see the future, I'm sorry but I feel what's coming around
+[01:38.91] 吹き消すキャンドル I'm waiting for the time
+[01:45.54] I wish upon a star
+[01:48.15] 世界は相変わらず 急ぎ足で run
+[01:54.00] 追いつけないまだ
+[01:56.21] Pain と笑みで racing 答えはその先に
+[02:01.57] It's like tasting a sweet and sour candy
+[02:06.52] 言わないで which is gonna win
+[02:10.20] Stay out this place is noisy
+[02:13.61] My voice is fading, I don't care about it
+[02:17.60] 'Cause I got a moistened mind, my mind
+[02:22.50] Next time I'll be ready, let's go and turn over the score
+[02:27.96] I wish upon a star
+[02:29.74] 世界は相変わらず 急ぎ足で run
+[02:35.68] 追いつけないまだ
+[02:38.37] Pain と笑みで racing 答えはその先に
+[02:43.30] It's like tasting a sweet and sour candy
+[02:48.44] I wish upon a star
+[02:50.82] 世界は相変わらず 急ぎ足で run
+[02:56.42] 追いつけないまだ
+[02:59.25] Pain と笑みで racing 答えはその先に
+[03:04.07] It's like tasting a sweet and sour candy
+[03:08.99] 言わないで which is gonna win
+[03:11.52] Yeah, yeah, yeah, let's see tomorrow
+[03:21.33] Yeah, yeah, yeah, let's see tomorrow
+```
