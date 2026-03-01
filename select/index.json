@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Sweet and Sour",
+  "base_artist": "Nulbarich",
+  "createdAt": "2026-03-01T12:48:18.737638Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweet And Sour (Bachlogic Remix) [feat. AKLO]",
+      "artist": "Nulbarich",
+      "has_synced": true,
+      "path": "select/01_Sweet_And_Sour_(Bachlogic_Remix)_[feat._AKLO]_Nulbarich.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "sweet and sour",
+      "artist": "Amelia Moore",
+      "has_synced": true,
+      "path": "select/02_sweet_and_sour_Amelia_Moore.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "sweet and sour",
+      "artist": "Amelia Moore",
+      "has_synced": false,
+      "path": "select/03_sweet_and_sour_Amelia_Moore.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sweet and Sour",
+      "artist": "Kid Francescoli",
+      "has_synced": true,
+      "path": "select/04_Sweet_and_Sour_Kid_Francescoli.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweet and Sour",
+      "artist": "Nulbarich",
+      "has_synced": true,
+      "path": "select/05_Sweet_and_Sour_Nulbarich.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweet and Sour Lady",
+      "artist": "Mud",
+      "has_synced": false,
+      "path": "select/06_Sweet_and_Sour_Lady_Mud.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweet and Sour",
+      "artist": "The Takeaways",
+      "has_synced": false,
+      "path": "select/07_Sweet_and_Sour_The_Takeaways.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sweet and Sour",
+      "artist": "Kid Francescoli feat. Bamby H2O",
+      "has_synced": true,
+      "path": "select/08_Sweet_and_Sour_Kid_Francescoli_feat._Bamby_H2O.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sweet and Sour (2014 Update VIP)",
+      "artist": "P*Light",
+      "has_synced": false,
+      "path": "select/09_Sweet_and_Sour_(2014_Update_VIP)_P_Light.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sweet and Sour",
+      "artist": "P*Light",
+      "has_synced": false,
+      "path": "select/10_Sweet_and_Sour_P_Light.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweet and Sour",
+      "artist": "Kid Francescoli & Bamby H2O",
+      "has_synced": true,
+      "path": "select/11_Sweet_and_Sour_Kid_Francescoli_&_Bamby_H2O.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "sweet and sour (live / electric guitar)",
+      "artist": "Amelia Moore",
+      "has_synced": false,
+      "path": "select/12_sweet_and_sour_(live___electric_guitar)_Amelia_Moore.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sweet and Sour",
+      "artist": "Lemon",
+      "has_synced": true,
+      "path": "select/13_Sweet_and_Sour_Lemon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Sweet And Sour Speech",
+      "artist": "Across Five Aprils",
+      "has_synced": false,
+      "path": "select/14_The_Sweet_And_Sour_Speech_Across_Five_Aprils.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "P*Light - Sweet and Sour (2014 Update VIP)",
+      "artist": "HARDCORE TANO*C",
+      "has_synced": false,
+      "path": "select/15_P_Light_-_Sweet_and_Sour_(2014_Update_VIP)_HARDCORE_TANO_C.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sweet and Sour",
+      "artist": "Don Tiki",
+      "has_synced": false,
+      "path": "select/16_Sweet_and_Sour_Don_Tiki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet and Sour",
+      "artist": "Nulbarich",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_and_Sour_Nulbarich.txt"
+    }
+  ]
+}
